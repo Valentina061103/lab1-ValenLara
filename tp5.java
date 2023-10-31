@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.text.DecimalFormat; //importamos una clase que pasa los double a dos decimales
-public class tp3 {
+public class tp5 {
     public static void main (String[] args) {
         Scanner scanner = new Scanner(System.in);
         DecimalFormat two_decimal = new DecimalFormat("#.##"); //le ponemos a esta la clase el nombre two_decimales
